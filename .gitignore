@@ -2,5 +2,11 @@ data/raw/
 metrics.json
 errors.csv
 __pycache__/
-*.pyc
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+~$*.pptx
 

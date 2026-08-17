@@ -1,0 +1,16 @@
+{
+  "milestone": "day-01",
+  "team": "张清波组",
+  "members": [
+    "张清波 U202412700（组长）",
+    "汤家齐 U202412691",
+    "吕绍康 U202412686"
+  ],
+  "repository_url": "https://github.com/boo0517/ai-camp-2026-d1-ZhangQingboU202412700",
+  "run_command": "python train.py",
+  "test_command": "python -m unittest discover -s tests -v",
+  "report": "report.md",
+  "presentation": "presentation.pptx",
+  "presentation_minutes": 3,
+  "student_confirmed_no_secrets": true
+}
