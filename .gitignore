@@ -1,0 +1,6 @@
+data/raw/
+metrics.json
+errors.csv
+__pycache__/
+*.pyc
+
